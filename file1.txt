@@ -1,1 +1,2 @@
 isi kalimat pertama pada file1.txt
+isi kalimat kedua pada file1.txt
